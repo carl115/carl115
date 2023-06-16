@@ -11,7 +11,7 @@ Como desarrollador soy dedicado en mi labor amplio mis conocimientos aprendiendo
 
 ### Experience 💼
 
-En Accedo technologies desarrolle el trabajo en equipo, mejore y corregí módulos de las aplicaciones, propuse nuevas ideas y oriente a mis compañeros de trabajo en errores y resolución de problemas.
+Desarrolle el trabajo en equipo, mejore y corregí módulos de las aplicaciones, propuse nuevas ideas y oriente a mis compañeros de trabajo en errores y resolución de problemas.
 
 ### Mis conocimientos 🧠
 
