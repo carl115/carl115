@@ -4,4 +4,5 @@
 
 <p style="display: flex; align-items: center; justify-content: space-evenly;">
     <a href="https://www.linkedin.com/in/carlos-fernando-diaz-40490a1b0/" target="blank"><img src="./images/linkedin.svg" alt="Linkedin" /></a>
+    <a href="#" target="blank"><img src="./images/link.svg" alt="Portfolio link" /></a>
 </p>
